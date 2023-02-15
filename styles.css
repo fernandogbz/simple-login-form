@@ -98,3 +98,9 @@ body {
   width: 60%;
   text-align: center;
 }
+
+#register a {
+  margin: auto;
+  color: #8f7cec;
+  text-decoration: none;
+}
