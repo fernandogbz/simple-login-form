@@ -89,3 +89,12 @@ body {
   flex-direction: row;
   margin-top: 20px;
 }
+
+#register {
+  font-size: 14px;
+  text-decoration: none;
+  color: #cbbddb;
+  margin: auto;
+  width: 60%;
+  text-align: center;
+}
